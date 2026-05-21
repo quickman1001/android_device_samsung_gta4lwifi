@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_gta4lwifi.mk
+    $(LOCAL_DIR)/voltage_gta4lwifi.mk
